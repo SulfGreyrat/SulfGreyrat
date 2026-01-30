@@ -52,15 +52,6 @@
 
 <hr>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-
-<p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=SulfGreyrat&theme=react&hide_border=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=SulfGreyrat&show_icons=true&theme=react&hide_border=true" />
-</p>
-
-<br>
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulfGreyrat&layout=compact&theme=react&hide_border=true&size_weight=0.5&count_weight=0.5" />
@@ -71,18 +62,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SulfGreyrat&theme=react-dark&hide_border=true" width="100%"/>
 
 <hr>
-
-<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
-<br>
-
-<div align="center">
-  <a href="https://github.com/SulfGreyrat">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SulfGreyrat&repo=YOUR_REPO_NAME&theme=react&hide_border=true">
-  </a>
-</div>
-
-<br>
-
-<h4 align="center">
-  <a href="https://github.com/SulfGreyrat?tab=repositories">🔎 Show More 🔍</a>
-</h4>
