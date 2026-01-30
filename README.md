@@ -32,9 +32,6 @@ Most of my hands-on experience is with **Python**, **FastAPI**, **SQLite**, and 
 
 ### 📊 GitHub Stats
 
-![Behruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulfGreyrat&count_private=true&show_icons=true&include_all_commits=true)
+![Behruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SulfGreyrat)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SulfGreyrat&layout=compact)
 
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SulfGreyrat.SulfGreyrat)
