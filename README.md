@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SulfGreyrat.SulfGreyrat">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -21,13 +20,13 @@
   <br><br>
   💻 Backend-focused developer (Python / FastAPI / SQLite)
   <br>
-  🧠 Interested in scalable systems, APIs, and clean architecture
+ 
   <br>
   🎓 IELTS C1 (7.0) — building realistic exam & education platforms
   <br>
-  👨‍🏫 Working as Support Teacher / Teacher Assistant
+  👨‍🏫 Working as Programmer at ADVANCE ELC
   <br>
-  🌍 Planning to apply to EU universities (Germany priority)
+  
   <br>
   ⚡ Fun fact: watched 600+ anime titles and still picky
 </p>
@@ -51,11 +50,6 @@
 </p>
 
 <hr>
-
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulfGreyrat&layout=compact&theme=react&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</p>
 
 <br>
 
