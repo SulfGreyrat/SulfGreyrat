@@ -9,13 +9,13 @@
   <a href="https://github.com/SulfGreyrat">
     <img width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
   </a>&nbsp;&nbsp;
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/SulfGreyrat">
     <img width="28" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:sulfgreyrat4985@gmail.com">
     <img width="28" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://www.instagram.com/sulfgreyrat/">
     <img width="28" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
   </a>
 </p>
@@ -27,9 +27,9 @@
   Hi, I'm <b>Behruz Xalilov</b> (aka <b>SulfGreyrat</b>) 👋<br>
   Computer Science–oriented student & backend developer from Uzbekistan 🇺🇿
   <br><br>
-  💻 Backend-focused developer (Python / FastAPI / SQLite)<br>
+  💻 Full stack developer <br>
   🎓 IELTS C1 (7.0) — exam & education platforms<br>
-  👨‍🏫 Programmer at <b>ADVANCE ELC</b>
+  👨‍🏫 Programmer at <a href=''><b>ADVANCE ELC</b></a>
 </p>
 
 <hr>
