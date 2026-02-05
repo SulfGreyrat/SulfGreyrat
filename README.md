@@ -59,7 +59,6 @@
   <code><img title="Visual Studio Code" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
   <!-- AI / Platforms -->
   <code><img title="OpenAI API" height="26" src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png"></code>
-  <code><img title="Claude" height="26" src="https://seeklogo.com/images/A/anthropic-logo-66C3D79CE6-seeklogo.com.png"></code>
   <code><img title="DeepSeek" height="26" src="https://avatars.githubusercontent.com/u/159003014?s=200&v=4"></code>
   <!-- Other -->
   <code><img title="Telegram Bots" height="26" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"></code>
@@ -67,9 +66,5 @@
 </p>
 
 <hr>
-
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SulfGreyrat&theme=react-dark&hide_border=true" width="100%"/>
 
 <hr>
