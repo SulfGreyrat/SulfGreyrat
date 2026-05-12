@@ -29,7 +29,7 @@
   <br><br>
   💻 Full stack developer <br>
   🎓 IELTS C1 (7.0) — exam & education platforms<br>
-  👨‍🏫 Programmer at <a href=''><b>ADVANCE ELC</b></a>
+  👨‍🏫 Programmer at <a href='http://advancecenter.uz'><b>ADVANCE ELC</b></a>
 </p>
 
 <hr>
